@@ -1,0 +1,148 @@
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.exe
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.deps.json
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.runtimeconfig.json
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.runtimeconfig.dev.json
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.dll
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.pdb
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.Form1.resources
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.Properties.Resources.resources
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csproj.GenerateResource.cache
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.AssemblyInfoInputs.cache
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.AssemblyInfo.cs
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csproj.CoreCompileInputs.cache
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.dll
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.pdb
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.genruntimeconfig.cache
+E:\C_SHARP\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csprojAssemblyReference.cache
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.exe
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.deps.json
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.runtimeconfig.json
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.runtimeconfig.dev.json
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.dll
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\bin\Debug\netcoreapp3.1\DoAnKTDH.pdb
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csprojAssemblyReference.cache
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.Form1.resources
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.Properties.Resources.resources
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csproj.GenerateResource.cache
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.AssemblyInfoInputs.cache
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.AssemblyInfo.cs
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.csproj.CoreCompileInputs.cache
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.dll
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.pdb
+E:\Graphics_KTDH\DoAnKTDH\DoAnKTDH\obj\Debug\netcoreapp3.1\DoAnKTDH.genruntimeconfig.cache
+E:\Graphics_KTDH\DoanKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.VeHinh2D.resources
+E:\Graphics_KTDH\DoanKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.VeHinh3D.resources
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+E:\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+E:\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.VeHinh2D.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.VeHinh3D.resources
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\BaiTapKTDH_Online\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+D:\gmail\ANam_3_HKII\KTDH\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_24052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.exe
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.deps.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.runtimeconfig.dev.json
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\bin\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csprojAssemblyReference.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Form1.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.Properties.Resources.resources
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.GenerateResource.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.dll
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.pdb
+C:\Users\Admin\OneDrive\Máy tính\test\DoAnKTDH_26052021\DoAnKTDH2\DoanKTDH\obj\Debug\netcoreapp3.1\DoanKTDH.genruntimeconfig.cache
